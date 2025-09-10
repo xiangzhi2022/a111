@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vits_custom\\module.vits_custom.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.5\\demoplus\\test\\a1111\\intermediate\\build\\win64\\x64\\a1111editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vits_custom\\definitions.vits_custom.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\visemedemoactor.gen.cpp",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\visemedemoactor.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\vitstypes.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vitstypes.generated.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\visemedemoactor.generated.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\visemeplayercomponent.gen.cpp",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\visemeplayercomponent.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\visemeplayercomponent.generated.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vitscustomblueprintlibrary.gen.cpp",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\vitscustomblueprintlibrary.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vitscustomblueprintlibrary.generated.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vitstypes.gen.cpp",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vits_custom.init.gen.cpp",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vits_custom\\permoduleinline.gen.cpp",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

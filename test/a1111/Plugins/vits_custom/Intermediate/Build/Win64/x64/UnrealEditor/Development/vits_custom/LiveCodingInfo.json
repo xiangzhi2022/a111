@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.vits_custom.cpp.obj": [
+			"VisemeDemoActor.gen.cpp.obj",
+			"VisemePlayerComponent.gen.cpp.obj",
+			"VitsCustomBlueprintLibrary.gen.cpp.obj",
+			"VitsTypes.gen.cpp.obj",
+			"vits_custom.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"VisemeDemoActor.cpp.obj",
+			"VisemePlayerComponent.cpp.obj",
+			"VitsCustomBlueprintLibrary.cpp.obj",
+			"VitsCustomRuntime.cpp.obj",
+			"vits_customModule.cpp.obj"
+		]
+	}
+}

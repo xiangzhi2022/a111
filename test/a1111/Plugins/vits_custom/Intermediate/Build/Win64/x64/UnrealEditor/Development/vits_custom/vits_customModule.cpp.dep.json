@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\private\\vits_custommodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.5\\demoplus\\test\\a1111\\intermediate\\build\\win64\\x64\\a1111editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vits_custom\\definitions.vits_custom.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

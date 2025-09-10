@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\private\\vitscustomruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5.5\\demoplus\\test\\a1111\\intermediate\\build\\win64\\x64\\a1111editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vits_custom\\definitions.vits_custom.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\vitscustomruntime.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\source\\vits_custom\\public\\vitstypes.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\intermediate\\build\\win64\\unrealeditor\\inc\\vits_custom\\uht\\vitstypes.generated.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\packages\\microsoft.ml.onnxruntime.1.14.1\\build\\native\\include\\onnxruntime_c_api.h",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\packages\\microsoft.ml.onnxruntime.1.14.1\\build\\native\\include\\onnxruntime_cxx_api.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\array",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\string",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cctype",
+            "e:\\ue5.5\\demoplus\\test\\a1111\\plugins\\vits_custom\\packages\\microsoft.ml.onnxruntime.1.14.1\\build\\native\\include\\onnxruntime_cxx_inline.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

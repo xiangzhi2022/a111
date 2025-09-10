@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-vits_custom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5.5\demoplus\test\a1111\Intermediate\Build\Win64\x64\a1111Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\Module.vits_custom.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\VisemeDemoActor.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\VisemePlayerComponent.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\VitsCustomBlueprintLibrary.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\VitsCustomRuntime.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\vits_customModule.cpp.obj"
+"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\Default.rc2.res"
+/OUT:"E:\UE5.5\demoplus\test\a1111\Plugins\vits_custom\Intermediate\Build\Win64\x64\UnrealEditor\Development\vits_custom\UnrealEditor-vits_custom.lib"

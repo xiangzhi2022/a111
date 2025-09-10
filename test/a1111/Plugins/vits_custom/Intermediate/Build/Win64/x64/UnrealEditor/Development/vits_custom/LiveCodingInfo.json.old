@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.vits_custom.cpp.obj": [
+			"VitsCustomBlueprintLibrary.gen.cpp.obj",
+			"VitsTypes.gen.cpp.obj",
+			"vits_custom.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"VitsCustomBlueprintLibrary.cpp.obj",
+			"VitsCustomRuntime.cpp.obj",
+			"vits_customModule.cpp.obj"
+		]
+	}
+}
